@@ -8,7 +8,7 @@ class GFG {
     public static void main(String[] args)
     {
         String url
-                = "https://www.geeksforgeeks.org/variables-in-java/";
+                = "https://www.geeksforgeeks.org/user-datagram-protocol-udp/";
         // Calling method to get URL info
         getUrlInfo(url);
     }
